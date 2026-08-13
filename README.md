@@ -42,6 +42,6 @@ The portfolio-safe data-preparation notes are in [PowerQuery/data-cleaning.md](P
 
 ## Confidentiality
 
-This is a portfolio documentation project based on a real banking dashboard. No real customer names, account numbers, account balances, account-officer information, PBIX file and source data are published.
+This is a portfolio documentation project based on a real banking dashboard. No account-officer information, PBIX file and source data are published.
 
 
