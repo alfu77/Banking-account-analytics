@@ -32,19 +32,7 @@ The portfolio-safe data-preparation notes are in [PowerQuery/data-cleaning.md](P
 
 ## Repository Structure
 
-```text
-banking-account-analytics/
-├── README.md
-├── .gitignore
-├── DAX/
-│   └── measures.md
-├── PowerQuery/
-│   └── data-cleaning.md
-├── data/
-│   └── README.md
-└── screenshots/
-    └── README.md
-```
+
 
 ## Tools Used
 
