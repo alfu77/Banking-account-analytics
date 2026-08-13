@@ -54,6 +54,6 @@ banking-account-analytics/
 
 ## Confidentiality
 
-This is a portfolio documentation project based on a real banking dashboard. No real customer names, account numbers, account balances, account-officer information, PBIX file, source data, or raw dashboard screenshots are published.
+This is a portfolio documentation project based on a real banking dashboard. No real customer names, account numbers, account balances, account-officer information, PBIX file and source data are published.
 
-To share visuals publicly in the future, recreate them with fully synthetic data and ensure every visible label, filter value, and tooltip is anonymized.
+
