@@ -1,0 +1,11 @@
+Power Query Cleaning Notes
+
+- Promoted the correct first row to column headers.
+- Reviewed the imported columns and data structure.
+- Corrected data types where needed.
+- Set Phone Number to Text, as it is an identifier rather than a calculation field.
+- Set Available Balance to Number for analysis and calculations.
+- Preserved negative balances, as they represent overdrafts (OD).
+- Reviewed NULL values and treated them according to the relevant column.
+- Kept Date of Birth as a Date. Replacing a null date with "Not Provided" would conflict with the Date data type.
+- Reviewed the cleaned dataset to confirm it was ready for analysis.
